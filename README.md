@@ -6,7 +6,7 @@ A web app for finding colleges and their information in a country using React an
 ### Clone the project
 
 ```bash
-  git clone https://github.com/MoQuayson/college-finder.git
+https://github.com/tyagi02/final
 ```
 
 ### Go to the project directory
